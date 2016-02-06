@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWeb", "AngularWeb\AngularWeb.csproj", "{644C6B56-0DB6-44DC-9989-12A9E659BF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWeb.Tests", "AngularWeb.Tests\AngularWeb.Tests.csproj", "{04D94F9F-9713-4862-8639-EA5E7DB4ECC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644C6B56-0DB6-44DC-9989-12A9E659BF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644C6B56-0DB6-44DC-9989-12A9E659BF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644C6B56-0DB6-44DC-9989-12A9E659BF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644C6B56-0DB6-44DC-9989-12A9E659BF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D94F9F-9713-4862-8639-EA5E7DB4ECC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D94F9F-9713-4862-8639-EA5E7DB4ECC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D94F9F-9713-4862-8639-EA5E7DB4ECC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D94F9F-9713-4862-8639-EA5E7DB4ECC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
